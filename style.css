@@ -1,0 +1,29 @@
+ul{
+    list-style: none;
+}
+li a{
+    text-decoration: none;
+}
+section ul div img{
+    width:120px ;
+    height: 100px;
+}
+section ul div{
+    margin: 10px;
+}
+nav{
+    background-color: dimgrey;
+}
+nav div a{
+    text-decoration: none;
+    margin: 7px;
+}
+#giris{
+    margin-top: 10px;
+}
+#ilan{
+     background-color: rgb(66, 66, 236);
+     border-radius: 5px;
+     font-size: 1.5rem;;
+     color: aliceblue;
+}
